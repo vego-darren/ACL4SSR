@@ -41,3 +41,6 @@ DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
+
+# 自定义国内域名
+DOMAIN-SUFFIX,yizhun-ai.com
