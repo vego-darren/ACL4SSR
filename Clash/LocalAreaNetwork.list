@@ -17,7 +17,6 @@ IP-CIDR,127.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,198.18.0.0/16,no-resolve
-IP-CIDR,100.27.79.35/24,no-resolve
 IP-CIDR,224.0.0.0/4,no-resolve
 IP-CIDR6,::1/128,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
@@ -43,5 +42,8 @@ DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
 
+# 自定义国内IP
+IP-CIDR,100.27.79.35/24,no-resolve
+IP-CIDR,44.223.128.205/24,no-resolve
 # 自定义国内域名
 DOMAIN-SUFFIX,yizhun-ai.com
