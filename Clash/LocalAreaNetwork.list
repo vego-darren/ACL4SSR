@@ -45,5 +45,7 @@ DOMAIN-SUFFIX,wifi.cmcc
 # 自定义国内IP
 IP-CIDR,100.27.79.35/24,no-resolve
 IP-CIDR,44.223.128.205/24,no-resolve
+IP-CIDR,83.229.124.187/24,no-resolve
+IP-CIDR,83.229.124.216/24,no-resolve
 # 自定义国内域名
 DOMAIN-SUFFIX,yizhun-ai.com
