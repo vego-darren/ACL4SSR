@@ -49,5 +49,6 @@ IP-CIDR,38.55.199.164/24,no-resolve
 IP-CIDR,23.165.248.75/24,no-resolve
 IP-CIDR,38.60.92.241/24,no-resolve
 IP-CIDR,38.148.249.118/24,no-resolve
+IP-CIDR,100.27.79.35/24,no-resolve
 # 自定义国内域名
 DOMAIN-SUFFIX,yizhun-ai.com
